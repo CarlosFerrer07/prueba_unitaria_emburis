@@ -15,7 +15,7 @@ class Calculadora
     }
 
     public function diff(){
-        return $this->num1-$this->num2;
+        return abs($this->num1-$this->num2);
 
     }
 
