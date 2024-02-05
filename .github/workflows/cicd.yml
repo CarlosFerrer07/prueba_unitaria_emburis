@@ -35,4 +35,5 @@ jobs:
           echo "Histórico guardado"
           docker push ${{ secrets.DOCKER_USER }}/2dawcicd:latest
           echo "Última versión subida"
+
           
