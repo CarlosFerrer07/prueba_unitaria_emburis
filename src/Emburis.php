@@ -1,8 +1,4 @@
 
-Claro, puedo ayudarte a crear una función sencilla en PHP que devuelva un JSON para la clase Emburis. Para este ejemplo, asumiré que quieres devolver un JSON con un conjunto de datos ficticios para esta clase. Aquí tienes un ejemplo básico:
-
-php
-Copy code
 <?php
 
 class Emburis
